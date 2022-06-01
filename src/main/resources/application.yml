@@ -1,0 +1,10 @@
+amazon:
+  access:
+    key: <KEY>
+    secret-key: <SecretKey>
+  region: <Region>
+  end-point:
+    url: dynamodb.<Region>.amazonaws.com
+
+server:
+  port: 9001

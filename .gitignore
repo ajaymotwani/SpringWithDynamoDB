@@ -23,3 +23,8 @@
 hs_err_pid*
 
 .idea
+
+target
+src/main/java/org/study/entities/Employee.java
+src/main/java/org/study/entities/Greeting.java
+SpringWithDynamoDB.iml
